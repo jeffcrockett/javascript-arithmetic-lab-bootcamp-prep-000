@@ -12,5 +12,5 @@ function multiply(a, b){
 }
 
 function divide(){
-  
+  return a / b
 }
